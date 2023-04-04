@@ -12,9 +12,9 @@
   Hello 👋, I am Siya Salekar, someone who loves to code!
   <br>
   <br>
-  👩‍🎓 I'm a undergraduate Software Development student.
+  👩‍🎓 I'm studying BSc Computing in Software Development at DkIT, Ireland.
   <br>
-  ⚡Fun Fact: I love to write, watch movies, listen to music and capture moments. 
+  ⚡Fun Fact: Web isn't the only thing I do.
   <br>
   🌐 Socials:
 </p>
