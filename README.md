@@ -18,7 +18,9 @@
   🌐 Socials:
 </p>
 <p> <a href="https://www.linkedin.com/in/siya-salekar-7495971b2/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:salekarsiya77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> <a href="https://www.youtube.com/@siyasalekar8406"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a><br>
-  <a href="https://mahara.dkit.ie/view/view.php?id=121447" style="font-weight: bold; color: darkblue;">Mahara page</a>
+<button style="font-weight: bold; color: darkblue; background-color: transparent; border: 2px solid darkblue; border-radius: 5px; padding: 8px 16px; cursor: pointer; text-decoration: none;">
+  <a href="https://mahara.dkit.ie/view/view.php?id=121447" style="text-decoration: none; color: inherit;">Mahara page</a>
+</button>
 <hr>
 <h2>Tech Stack 💻</h2><br>
 
