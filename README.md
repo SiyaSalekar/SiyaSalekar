@@ -17,6 +17,7 @@
   <br>
   🌐 Socials:
 </p>
+<a href="https://mahara.dkit.ie/view/view.php?id=121447">![image](https://github.com/SiyaSalekar/SiyaSalekar/assets/92158161/75ca3d10-cea7-41c5-aca1-cda3d410c4d9)</a>
 <p> <a href="https://www.linkedin.com/in/siya-salekar-7495971b2/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:salekarsiya77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> <a href="https://www.youtube.com/@siyasalekar8406"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a>
 <hr>
 <h2>Tech Stack 💻</h2><br>
